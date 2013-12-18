@@ -3,6 +3,4 @@ Journal
 touch README.md
 git init
 git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/shudemingzai/Journal.git
-git push -u origin master
+This repo is the back up of citation styles of journals.
